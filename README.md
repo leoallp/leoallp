@@ -22,6 +22,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="20" />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="40" alt="Postman logo" />
+
 </div>
 
 ###
@@ -35,9 +38,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leooall&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="175" alt="languages graph"  />
-</div>
 
-###
  
