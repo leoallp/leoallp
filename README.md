@@ -31,7 +31,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-  <a href="linkedin.com/in/leonardollaupe/" target="_blank">
+  <a href="https://www.linkedin.com/in/leonardollaupe/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
