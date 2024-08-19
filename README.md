@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="http://www.w3.org/2000/svg"  height="30" alt="python logo"  />
+  <img xmlns="http://www.w3.org/2000/svg"  height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
