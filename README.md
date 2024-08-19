@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="<svg xmlns="http://www.w3.org/2000/svg" width="2500" height="2500" fill="none" viewBox="0 0 64 64"><linearGradient id="a" x1="19.075" x2="34.898" y1="18.782" y2="34.658" gradientUnits="userSpaceOnUse"><stop stop-color="#387EB8"/><stop offset="1" stop-color="#366994"/></linearGradient><linearGradient id="b" x1="28.809" x2="45.803" y1="28.882" y2="45.163" gradientUnits="userSpaceOnUse"><stop stop-color="#FFE052"/><stop offset="1" stop-color="#FFC331"/></linearGradient></defs></svg>" height="30" alt="python logo"  />
+  <img src="http://www.w3.org/2000/svg"  height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
