@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
-  <a href="https://66cdde76be2974117bf9570d--leonardollaupe.netlify.app" target="_blank">
+  <a href="https://leonardollaupe.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=My_Website&logo=globe&label=&color=28A745&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="MyWebsite logo" />
 
   </a>
